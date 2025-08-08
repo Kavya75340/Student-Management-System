@@ -6,11 +6,11 @@ A simple **Command Line Interface (CLI)** application built in Java to manage st
 
 ## 🛠 Features
 
-- ➕ Add new student (with ID, Name, Marks)
-- 📋 View all students
-- ✏️ Update student name and marks
-- ❌ Delete student by ID
-- 📦 Object-Oriented design using Java classes
+-   ➕ Add new student (with ID, Name, Marks)
+-   📋 View all students
+-   ✏️ Update student name and marks
+-   ❌ Delete student by ID
+-   📦 Object-Oriented design using Java classes
 
 ---
 
@@ -29,8 +29,8 @@ LibraryManagmentSystem/
 
 ### 🔧 Prerequisites
 
-* Java JDK (8 or above)
-* IDE like IntelliJ IDEA, Eclipse, or command-line tools
+-   Java JDK (8 or above)
+-   IDE like IntelliJ IDEA, Eclipse, or command-line tools
 
 ### ▶️ How to Run
 
@@ -38,15 +38,15 @@ LibraryManagmentSystem/
 2. Navigate to the project directory.
 3. Compile the code:
 
-   ```bash
-   javac LibraryManagmentSystem/*.java
-   ```
+    ```bash
+    javac Student-Managment-System/*.java
+    ```
 
 4. Run the application:
 
-   ```bash
-   java LibraryManagmentSystem.StudentCLIApp
-   ```
+    ```bash
+    java Student-Managment-System.StudentCLIApp
+    ```
 
 ---
 
@@ -66,16 +66,16 @@ Enter your choice:
 
 ## 💡 Future Improvements
 
-* ✅ File-based persistence (save/load students)
-* 🔎 Search students by name or marks
-* 📊 Sort students by marks or alphabetically
-* 🖥️ GUI version using JavaFX or Swing
+-   ✅ File-based persistence (save/load students)
+-   🔎 Search students by name or marks
+-   📊 Sort students by marks or alphabetically
+-   🖥️ GUI version using JavaFX or Swing
 
 ---
 
 ## 🧑‍💻 Author
 
-* **Anurag** — Developer & Maintainer
-* 💬 Contributions and suggestions are welcome!
+-   **Kavya** — Developer & Maintainer
+-   💬 Contributions and suggestions are welcome!
 
 ---
